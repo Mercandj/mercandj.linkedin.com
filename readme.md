@@ -4,7 +4,7 @@
 
 ## Links
 
-- [PROFILE JONATHAN MERCANDALLI](https://fr.linkedin.com/pub/jonathan-mercandalli/76/725/875)
+- [PROFILE JONATHAN MERCANDALLI](https://www.linkedin.com/in/jonathan-mercandalli)
 
 -------------------------------------------------------------
 
@@ -44,8 +44,8 @@ Lead Android chez MWM • FT120 🚀 • Passionné d'Android qui aime faire des
 ☯ 50% of management, 50% of individual contribution.
 
 
-➡️ The passion driving me, the "side projects"
-🌍 Make and improve the protefolio on my home serveur I maintain. Ok course in Kotlin, of course in ktor.
+➡️ Hobbies & Side projects
+🌍 Make and improve the protefolio on my home serveur. Ok course in Kotlin, of course in ktor.
 🔗 https://mercandalli.com
 ♨️ Active contribution to open source projects on github.
 🔗 https://github.com/Mercandj
@@ -70,7 +70,7 @@ Lead Android chez MWM • FT120 🚀 • Passionné d'Android qui aime faire des
 ☯ 50% de management, 50% de contributions individuelles.
 
 
-➡️ Une passion, les "side projects"
+➡️ Hobbies & Side projects
 🌍 Faire et améliorer le portfolio dont le serveur est chez moi. En Kotlin bien sur, en utilisant Ktor.
 🔗 https://mercandalli.com
 ♨️ Des contributions à des projets open source sur github.
@@ -91,6 +91,15 @@ Title: Android Lead
 Date: January 2021, today
 Where: Boulogne-Billancourt, Île-de-France, France
 Description:
+
+Few people know MWM. But MWM is an software publishier with more than 500 million downloads on Android and iOS.
+MWM is one of the 120 best french startup and raised 50,000,000€.
+
+Great codebase, products and acquisition / monetization.
+
+After 5 yeas as Android developer and contribute to launch a dozen apps, it is with pleasure that I continue the journey with the best team as Android Lead.
+
+From DJ and the deep C++ audio loop, to the Compose Kotlin user interface of drawing apps, never 2 days are the same in my passion-job.
 ```
 
 #### French
@@ -115,28 +124,37 @@ Que ce soit en travaillant sur nos apps de musique, nos apps de coloriage ou nos
 #### English
 
 ```
-Title: Android Lead
+Title: Android Developer
 Date: October 2015, January 2021
 Where: Boulogne-Billancourt, Île-de-France, France
 Description:
 
+I had the chance and continue to work with the best team on:
+🎵 UI with custom view on vinyle turntable on edjing : DJ app n°1 on the stores
+🎨 Drawing app creation with dynamic content on ColorPop : n°1 on the stores
+📱 The Java to Kotlin transition, the Jetpack Compose adoption and to work on the pragmatic codebase evolution
+🎧 Audio loop with JNI and C++
+💰 And the monetization from PlayStore purchases or ads mediation
+👉 In few words, make apps from A to Z.
 
+MWM's strength lies in the fact that its product is not an app, no.
+Its product is an ecosystem of several apps that complement each other.
 ```
 
 #### French
 
 ```
-Title: Lead Android
+Title: Développeur Android
 Date: October 2015, January 2021
 Where: Boulogne-Billancourt, Île-de-France, France
 Description:
 
-J'ai eu la chance de travailler avec la meilleure équipe sur :
-🎵 de l'UI en custom view sur la platine vinyle sur edjing : app de DJ n°1 sur les stores
-🎨 la création d'une app de dessin à contenu dynamic sur ColorPop : n°1 sur les stores
-📱 le passage en Kotlin, les débuts de Compose, une évolution de codebase pragmatique
-🎧 les boucles audio en JNI C++
-💰 et bien sur la monetisation que ce soit via les purchases play store ou via les ads / ads mediation
+J'ai eu la chance et continue de travailler avec la meilleure équipe sur :
+🎵 De l'UI en custom view sur la platine vinyle sur edjing : app de DJ n°1 sur les stores
+🎨 La création d'une app de dessin à contenu dynamic sur ColorPop : n°1 sur les stores
+📱 Le passage en Kotlin, les débuts de Compose, une évolution de codebase pragmatique
+🎧 Les boucles audio en JNI C++
+💰 Et aussi sur la monetisation que ce soit via les purchases play store ou via les ads / ads mediation
 👉 Bref, faire des apps de A à Z.
 
 La force de MWM réside dans le fait que son produit n'est pas une app, non.
