@@ -50,6 +50,9 @@ Lead Android chez MWM • FT120 🚀 • Passionné d'Android qui aime faire des
 ♨️ Active contribution to open source projects on github.
 🔗 https://github.com/Mercandj
 📱 I create Android utility apps I love to use myself.
+
+
+#android #mwm #playstore #google
 ```
 
 ### French
@@ -76,6 +79,9 @@ Lead Android chez MWM • FT120 🚀 • Passionné d'Android qui aime faire des
 ♨️ Des contributions à des projets open source sur github.
 🔗 https://github.com/Mercandj
 📱 J'adore créer des apps utiles au plus grand nombre
+
+
+#android #mwm #playstore #google
 ```
 
 -------------------------------------------------------------
@@ -92,8 +98,7 @@ Date: January 2021, today
 Where: Boulogne-Billancourt, Île-de-France, France
 Description:
 
-Few people know MWM. But MWM is an software publishier with more than 500 million downloads on Android and iOS.
-MWM is one of the 120 best french startup and raised 50,000,000€.
+Few people know MWM. But MWM is a software publishier with more than 500 million downloads on Android and iOS. MWM is one of the 120 best french startup and raised 50,000,000€.
 
 Great codebase, products and acquisition / monetization.
 
@@ -129,7 +134,8 @@ Date: October 2015, January 2021
 Where: Boulogne-Billancourt, Île-de-France, France
 Description:
 
-I had the chance and continue to work with the best team on:
+I had the chance to work and to continue working with the best team on:
+
 🎵 UI with custom view on vinyle turntable on edjing : DJ app n°1 on the stores
 🎨 Drawing app creation with dynamic content on ColorPop : n°1 on the stores
 📱 The Java to Kotlin transition, the Jetpack Compose adoption and to work on the pragmatic codebase evolution
@@ -149,7 +155,8 @@ Date: October 2015, January 2021
 Where: Boulogne-Billancourt, Île-de-France, France
 Description:
 
-J'ai eu la chance et continue de travailler avec la meilleure équipe sur :
+J'ai eu la chance de travailler et continuer à travailler avec la meilleure équipe sur :
+
 🎵 De l'UI en custom view sur la platine vinyle sur edjing : app de DJ n°1 sur les stores
 🎨 La création d'une app de dessin à contenu dynamic sur ColorPop : n°1 sur les stores
 📱 Le passage en Kotlin, les débuts de Compose, une évolution de codebase pragmatique
