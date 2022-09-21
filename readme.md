@@ -13,13 +13,13 @@
 ### English
 
 ```
-Lead Android at MWM • FT120 🚀 • Android lover, my passion is to make useful mobile apps for everyone
+Lead Android developer at MWM • FT120 🚀 • Android lover, my passion: make apps for everyone
 ```
 
 ### French
 
 ```
-Lead Android chez MWM • FT120 🚀 • Passionné d'Android qui aime faire des apps Android utiles à tous
+Lead Android developer chez MWM • FT120 🚀 • Passionné par Android, aime faire des apps utiles à tous
 ```
 
 -------------------------------------------------------------
@@ -32,14 +32,14 @@ Lead Android chez MWM • FT120 🚀 • Passionné d'Android qui aime faire des
 👉 Android Lead at MWM, mobile apps software publisher.
 
 ➡️ What does MWM ?
-🚀 MWM is a french scale-up of 120 people. Leader on Android and iOS with "creative" apps.
+🚀 MWM is a french scale-up of 150 people. Leader on Android and iOS with "creative" apps.
 📈 More that 500 million downloads.
 🎧 DJ and drawing apps the most downloaded in the Apple AppStore and the Google PlayStore.
 💰 MWM is unique, the MWM's product is not one app or a chain of hits. The product of MWM is an ecosystem of apps.
 
 
 ➡️ Journey at MWM as Android Lead ?
-👴 In 7 years at MWM, I saw the society grow up from 30 to 120 employees. I went from Dev to Android Lead, job that I'm doing since Jan 2021.
+👴 In 7 years at MWM, I saw the society grow up from 30 to 150 employees. I went from Dev to Android Lead, job that I'm doing since Jan 2021.
 📱 I do management and individual contributions on projects to participate to app creation, new feature dev and tools for MWM's apps.
 ☯ 50% of management, 50% of individual contribution.
 
@@ -61,14 +61,14 @@ Lead Android chez MWM • FT120 🚀 • Passionné d'Android qui aime faire des
 👉 Lead Android chez MWM, éditeur de logiciel d'apps sur mobile.
 
 ➡️ Que fait MWM ?
-🚀 MWM est une scale-up française de 120 personnes qui est leader sur Android et iOS sur les apps "créatives".
+🚀 MWM est une scale-up française de 150 personnes qui est leader sur Android et iOS sur les apps "créatives".
 📈 Pas mois de 500 millions de téléchargements à son actif.
 🎧 Apps de DJ et de coloriage les plus téléchargées au monde.
 💰 La particularité d'MWM, son produit n'est pas une app ou une série de hits, mais c'est un ecosystem d'apps.
 
 
 ➡️ Mon aventure chez MWM ?
-👴 En 7 ans chez MWM, j'ai vu la société passé de 30 à 120 personnes. Après 5 ans comme dev Android, je suis passé lead Android en Janvier 2021.
+👴 En 7 ans chez MWM, j'ai vu la société passer de 30 à 150 personnes. Après 5 ans comme dev Android, j'ai pris en charge le lead de l'équipe Android en Janvier 2021.
 📱 Au quotidien, j'accompagne et participe à la création de nouvelles applications, de nouvelles fonctionnalités ainsi que l'amélioration de nos outils.
 ☯ 50% de management, 50% de contributions individuelles.
 
