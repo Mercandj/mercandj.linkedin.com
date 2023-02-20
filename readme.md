@@ -12,7 +12,7 @@
 
 ```
 First name: Jonathan
-Name: Mercandalli • MWM 🚀
+Name: Mercandalli
 ```
 
 ## Title
@@ -20,13 +20,13 @@ Name: Mercandalli • MWM 🚀
 ### English
 
 ```
-Lead Android developer at MWM • FT120 🇫🇷 • Android lover, my passion: make apps for everyone
+Lead Android developer at MWM 🇫🇷 • Android lover, my passion: make apps for everyone
 ```
 
 ### French
 
 ```
-Lead Android developer chez MWM • FT120 🇫🇷 • Passionné par Android, aime faire des apps utiles à tous
+Lead Android developer chez MWM 🇫🇷 • Passionné par Android, aime faire des apps utiles à tous
 ```
 
 -------------------------------------------------------------
