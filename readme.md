@@ -20,13 +20,13 @@ Name: Mercandalli
 ### English
 
 ```
-Lead Android developer at MWM 🇫🇷 • Android lover, my passion: make apps for everyone
+Android Lead developer at MWM 🇫🇷 • Android lover, my passion: make apps for everyone
 ```
 
 ### French
 
 ```
-Lead Android developer chez MWM 🇫🇷 • Passionné par Android, aime faire des apps utiles à tous
+Android Lead developer chez MWM 🇫🇷 • Passionné par Android, aime faire des apps utiles à tous
 ```
 
 -------------------------------------------------------------
