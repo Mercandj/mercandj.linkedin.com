@@ -47,16 +47,14 @@ Android Lead developer chez MWM 🇫🇷 • Passionné par Android, aime faire 
 
 ➡️ Journey at MWM as Android Lead ?
 👴 In 7 years at MWM, I saw the society grow up from 30 to 150 employees. I went from Dev to Android Lead, job that I'm doing since Jan 2021.
-📱 I do management and individual contributions on projects to participate to app creation, new feature dev and tools for MWM's apps.
+📱 I do management and individual contributions on projects. Dev new apps, new feature and tools.
 ☯ 50% of management, 50% of individual contribution.
 
 
 ➡️ Hobbies & Side projects
-🌍 Make and improve the protefolio on my home serveur. Ok course in Kotlin, of course in ktor.
-🔗 https://mercandalli.com
-♨️ Active contribution to open source projects on github.
-🔗 https://github.com/Mercandj
 📱 I create Android utility apps I love to use myself.
+🌍 Make and improve the protefolio on my home serveur in Kotlin with ktor: https://mercandalli.com
+♨️ Active contribution to open source projects on github: https://github.com/Mercandj
 
 
 #android #mwm #playstore #google
@@ -81,11 +79,9 @@ Android Lead developer chez MWM 🇫🇷 • Passionné par Android, aime faire 
 
 
 ➡️ Hobbies & Side projects
-🌍 Faire et améliorer le portfolio dont le serveur est chez moi. En Kotlin bien sur, en utilisant Ktor.
-🔗 https://mercandalli.com
-♨️ Des contributions à des projets open source sur github.
-🔗 https://github.com/Mercandj
 📱 J'adore créer des apps utiles au plus grand nombre
+🌍 Portfolio sur serveur perso en Kotlin avec Ktor: https://mercandalli.com
+♨️ Projets open source sur github: https://github.com/Mercandj
 
 
 #android #mwm #playstore #google
